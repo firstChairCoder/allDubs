@@ -1,0 +1,13 @@
+{ 
+  "extends": "react-native-wcandillon",
+  "rules": {
+    "import/no-default-export": "off",
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto",
+        "trailingComma": "none"
+      }
+    ]
+  }
+} 

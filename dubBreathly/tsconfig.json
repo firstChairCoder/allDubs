@@ -1,0 +1,4 @@
+{
+  "extends": "eslint-config-react-native-wcandillon/tsconfig.base",
+  "exclude": ["node_modules", "babel.config.js"]
+}
